@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/perfume_ecomm_app/static/css/main.dac44755.css",
+    "main.js": "/perfume_ecomm_app/static/js/main.e8b7831c.js",
+    "index.html": "/perfume_ecomm_app/index.html",
+    "main.dac44755.css.map": "/perfume_ecomm_app/static/css/main.dac44755.css.map",
+    "main.e8b7831c.js.map": "/perfume_ecomm_app/static/js/main.e8b7831c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac44755.css",
+    "static/js/main.e8b7831c.js"
+  ]
+}
